@@ -9,7 +9,7 @@
 #import "UIAlertViewUtilities.h"
 
 @implementation UIAlertViewUtilities
-//Synthesize the variables
+//Synthesize the variables 
 @synthesize alertQueue;
 @synthesize currentQueueValue;
 @synthesize mainTimer;
